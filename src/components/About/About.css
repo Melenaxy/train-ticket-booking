@@ -1,0 +1,30 @@
+.about {
+    max-width: 1920px;
+    height: 564px;
+    background-color: #fff;
+    padding: 144px 232px 115px 258px;
+}
+
+.about-header {
+    font-size: 36px;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-bottom: 33px;
+}
+
+.about-container {
+    height: 231px;
+    padding: 0px 280px 0px 19px;
+    border-left: 9px solid rgba(255, 168, 0, 1);
+}
+
+.about-text {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.13px;
+    text-align: left;
+}
+
+.about-text:not(:last-child) {
+    margin-bottom: 27px;
+}
