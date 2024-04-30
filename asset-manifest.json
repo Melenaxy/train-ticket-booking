@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/train-ticket-booking/static/css/main.e9e77b9f.css",
-    "main.js": "/train-ticket-booking/static/js/main.e737ff76.js",
+    "main.css": "/train-ticket-booking/static/css/main.a7784471.css",
+    "main.js": "/train-ticket-booking/static/js/main.1360861c.js",
     "static/media/header-bg-image.png": "/train-ticket-booking/static/media/header-bg-image.9097c2f38a7a6a860691.png",
     "static/media/advantages-bg.png": "/train-ticket-booking/static/media/advantages-bg.c7534d3e38f14c38de15.png",
     "static/media/review-2.png": "/train-ticket-booking/static/media/review-2.b362f192749463f90fc3.png",
     "static/media/review-1.png": "/train-ticket-booking/static/media/review-1.498654b14486fd6e40c7.png",
     "index.html": "/train-ticket-booking/index.html",
-    "main.e9e77b9f.css.map": "/train-ticket-booking/static/css/main.e9e77b9f.css.map",
-    "main.e737ff76.js.map": "/train-ticket-booking/static/js/main.e737ff76.js.map"
+    "main.a7784471.css.map": "/train-ticket-booking/static/css/main.a7784471.css.map",
+    "main.1360861c.js.map": "/train-ticket-booking/static/js/main.1360861c.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9e77b9f.css",
-    "static/js/main.e737ff76.js"
+    "static/css/main.a7784471.css",
+    "static/js/main.1360861c.js"
   ]
 }
