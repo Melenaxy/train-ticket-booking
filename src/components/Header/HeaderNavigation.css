@@ -1,0 +1,25 @@
+.logo {
+    color: #FFFFFF;
+    font-size: 36px;
+    /* font-weight: 900; */
+    padding: 15px 258px 8px;
+}
+
+.header-nav {
+    background-color: #292929;
+    padding: 25px 258px;
+}
+
+.nav-menu {
+    height: 43px;
+    font-size: 30px;
+    color: #FFFFFF;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.nav-menu-item:not(:last-child) {
+    margin-right: 83px;
+}
