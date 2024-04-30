@@ -1,4 +1,4 @@
-import { Footer } from './components/Footer/Footer';
+import { FooterContent } from './components/FooterContent/FooterContent';
 import { Header } from './components/Header/Header';
 import { MainContent } from './components/MainContent/MainContent';
 
@@ -7,7 +7,7 @@ function App() {
     <>
       <Header />
       <MainContent />
-      <Footer />
+      <FooterContent />
     </>
   );
 }

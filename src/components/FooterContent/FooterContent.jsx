@@ -1,8 +1,8 @@
-import './Footer.css'
+import './FooterContent.css'
 import { Contacts } from './Contacts/Contacts'
 import { Subscription } from './Subscription/Subscription'
 
-export const Footer = () => {
+export const FooterContent = () => {
     return (
         <footer className='footer'>
             <div className='footer-container-1'>
