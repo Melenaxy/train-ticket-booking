@@ -1,0 +1,45 @@
+.contacts {
+    margin-right: 295px;
+}
+
+.contacts-header {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.contacts-item {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.contacts-item-pic  {
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+    margin-right: 36px;
+}
+
+.phone {
+    background-image: url(./img/phone.png);
+}
+
+.email {
+    background-image: url(./img/email.png);
+    background-size: 30px 25px;
+}
+
+.skype {
+    background-image: url(./img/skype.png);
+}
+
+.adress {
+    background-image: url(./img/adress.png);
+    background-size: 21px 30px;
+}
+
+.contacts-text {
+    font-size: 24px;
+    font-weight: 400;
+}

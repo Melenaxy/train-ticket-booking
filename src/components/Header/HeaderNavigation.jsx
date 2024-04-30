@@ -3,7 +3,9 @@ import './HeaderNavigation.css'
 export const HeaderNavigation = () => {
   return (
     <>
-      <div className='logo'>Лого</div>
+      <a href='#'>
+        <div className='logo'>Лого</div>
+      </a>
       <nav className='header-nav'>
         <ul className='nav-menu'>
           <li className='nav-menu-item'>

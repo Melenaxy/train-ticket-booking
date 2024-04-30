@@ -1,0 +1,88 @@
+.subscription-header {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 32px;
+}
+
+.sub-email {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.subscription-email {
+    width: 447px;
+    height: 60px;
+    font-size: 24px;
+    padding: 17px 21px;
+    border-radius: 3px;
+    outline: none;
+}
+
+.subscription-email::placeholder {
+    font-size: 24px;
+    color: rgba(229, 229, 229, 1);
+}
+
+.subscription-btn {
+    width: 169px;
+    height: 60px;
+    background-color: transparent;
+    color: rgba(229, 229, 229, 1);
+    font-size: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: 17px 11px;
+    margin-left: 33px;
+    border: 1px solid rgba(255, 255, 255, 1);
+    border-radius: 3px;
+}
+
+.sub-email-container {
+    display: flex;
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+.socials-header {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 22px;
+}
+
+.socials-container {
+    display: flex;
+}
+
+.socials-item-link {
+    display: block;
+    width: 47px;
+    height: 30px;
+    background-repeat: no-repeat;
+    margin-right: 40px;
+}
+
+.youtube {
+    background-image: url(./img/youtube.png);
+    background-size: 38px 30px;
+}
+
+.linkedin {
+    background-image: url(./img/linkedin.png);
+    background-size: 38px 30px;
+}
+
+.google {
+    background-image: url(./img/google.png);
+    background-size: 47px 30px;
+}
+
+.facebook {
+    background-image: url(./img/facebook.png);
+    background-size: 14px 30px;
+    margin-right: 20px;
+}
+
+.twitter {
+    background-image: url(./img/twitter.png);
+    background-size: 37px 30px;
+}

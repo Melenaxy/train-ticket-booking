@@ -4,7 +4,7 @@ export const TicketsSearchForm = () => {
     return (
         <div className='search-container'>
             <h1>Вся жизнь - <strong>путешествие!</strong></h1>
-            <form>
+            <form className='tickets-search-form'>
                 <label className='direction-label' htmlFor='direction'>Направление</label>
                 <div className='direction-container'>
                     <input className='from-direction' type='text' id='direction' placeholder='Откуда'></input>

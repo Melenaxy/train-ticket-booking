@@ -1,0 +1,40 @@
+.footer {
+    color: rgba(229, 229, 229, 1);
+}
+
+.footer-container-1 {
+    width: 1920px;
+    height: 423px;
+    display: flex;
+    padding: 49px 328px 52px 340px;
+    border-bottom: 1px solid rgba(229, 229, 229, 1);
+}
+
+.footer-container-2 {
+    max-width: 1920px;
+    height: 96px;
+    display: flex;
+    padding: 25px 257px 33px 253px;
+}
+
+.footer-logo {
+    display: block;
+    font-size: 32px;
+    font-weight: 900;
+    margin-right: 600px;
+}
+
+.arrow-up {
+    width: 36px;
+    height: 36px;
+    display: block;
+    background-image: url(./img/arrow-up.png);
+    background-repeat: no-repeat;
+    background-size: 36px 36px;
+    margin-right: 570px;
+}
+
+.info {
+    font-size: 24px;
+    font-weight: 300;
+}

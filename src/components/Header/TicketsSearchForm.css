@@ -14,7 +14,7 @@ h1 {
     padding: 415px 104px 242px 349px;
 }
 
-form {
+.tickets-search-form {
     width: 729px;
     height: 566px;
     padding: 80px 25px 50px 18px;
@@ -44,7 +44,7 @@ form {
     margin-bottom: 94px;
 }
 
-input {
+.from-direction, .to-direction, .from-date, .to-date  {
     width: 325px;
     height: 60px;
     padding: 19px 73px 11px 21px;
@@ -64,7 +64,7 @@ input {
     margin-right: 40px;
 }
 
-input::placeholder {
+.from-date::placeholder {
     font-size: 18px;
     color: rgba(229, 229, 229, 1);
 }
