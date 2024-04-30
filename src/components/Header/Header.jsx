@@ -4,10 +4,9 @@ import { TicketsSearchForm } from './TicketsSearchForm'
 
 export const Header = () => {
     return (
-        <div className='header'>
+        <header className='header'>
             <HeaderNavigation />
             <TicketsSearchForm />
-        </div>
-
+        </header>
     )
 }

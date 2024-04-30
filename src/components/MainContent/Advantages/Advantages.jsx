@@ -2,7 +2,6 @@ import './Advantages.css'
 
 export const Advantages = () => {
     return (
-
         <section className='advantages' id={'advantages'}>
             <div className='advantages-header-container'>
                 <h2 className='advantages-header'>Как это работает</h2>

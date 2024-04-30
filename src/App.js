@@ -1,13 +1,11 @@
-import { About } from './components/About/About';
-import { Advantages } from './components/Advantages/Advantages';
 import { Header } from './components/Header/Header';
+import { MainContent } from './components/MainContent/MainContent';
 
 function App() {
   return (
     <>
       <Header />
-      <About />
-      <Advantages />
+      <MainContent />
     </>
   );
 }

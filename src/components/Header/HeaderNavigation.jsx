@@ -12,8 +12,12 @@ export const HeaderNavigation = () => {
           <li className='nav-menu-item'>
             <a href='#advantages'>Как это работает</a>
           </li>
-          <li className='nav-menu-item'>Отзывы</li>
-          <li className='nav-menu-item'>Контакты</li>
+          <li className='nav-menu-item'>
+            <a href='#reviews'>Отзывы</a>
+          </li>
+          <li className='nav-menu-item'>
+            <a href='#contacts'>Контакты</a>
+          </li>
         </ul>
       </nav>
     </>
